@@ -25,7 +25,7 @@ Hobbies: ["Soccer", "Chess", "Tennis"]
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](www.linkedin.com/in/hakeem-kadir)
+Feel free to connect with me on [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hakeem-kadir)
 
 
 ## ⚡ Fun Fact
